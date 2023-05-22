@@ -1,0 +1,61 @@
+/*
+Theme Name: Newspapers tr
+Theme URI: 
+Author: Silk Themes
+Author URI: https://silkthemes.com
+Version: 1.0.3
+Requires at least: 4.7
+Tested up to: 6
+Requires PHP: 5.6
+License: GNU General Public License, v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Template: newspaperss
+Text Domain: newspapers-tr
+
+Description: Newspapers tr is a perfect WordPress theme for magazines, personal blogs, newspapers, content publishers.All options come with theme is easy and simple.
+
+Tags:   grid-layout, one-column, two-columns, custom-background, custom-colors, custom-header, custom-menu, featured-image-header, featured-images, flexible-header, full-width-template,theme-options, threaded-comments,blog,news,food-and-drink
+
+Newspapers tr  WordPress Theme, Copyright 2023 silkthemes.com
+Newspapers tr is distributed under the terms of the GNU GPL
+
+Newspapers tr is based on Underscores https://underscores.me/, (C) 2012-2017 Automattic, Inc.
+Underscores is distributed under the terms of the GNU GPL v2 or later.
+*/
+
+/* Medium only */
+@media screen and (min-width: 40em) and (max-width: 63.9375em) {
+    .slider-container{
+        min-height: 90vh;
+    }
+}
+.site-description{
+    color: black;
+}
+
+
+.sidebar-inner .widget_archive ul li a, 
+.sidebar-inner .widget_categories ul li a, 
+.sidebar-inner .widget_pages ul li a, 
+.sidebar-inner .widget_nav_menu ul li a, 
+.sidebar-inner .widget_portfolio_category ul li a {
+    line-height: 20px;
+    padding: 5px 0;
+    font-size: 15px;
+    color: #414141;
+    text-decoration: none;
+  }
+
+  .head-bottom-area ,.head-bottom-area .dropdown.menu .is-dropdown-submenu > li{
+    background-color:#008080;
+  }
+
+  #topmenu .top-bar .top-bar-left .menu a{
+    color: white;
+  }
+  #topmenu,.off-canvas-content .title-bar{
+    background-color: #008080;
+  }
+  #topmenu{
+    border: none;
+  }

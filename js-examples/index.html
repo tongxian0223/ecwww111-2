@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <script src="main.js"></script>
+    </head>
+    <body>
+        <h2>Hello</h2>
+        <hr>
+        身高：<input type="text" id="height" size="5">公分<br>
+        體重：<input type="text" id="weight" size="5">公斤<br>
+        <button onclick="bmi()">計算BMI</button>
+        你的BMI是：<p id="bmiresult">Wait</p>
+    
+        <button onclick="greeting()">請按我</button>
+        <button onclick="changeText(this)">你好</button>
+        <button onclick="changeText(this)">Hi</button>
+        <a class="nav-link active" aria-current="page" href="/ecwww111-2/">首頁</a>
+        <p id="content">主要內容</p>
+    
+        <script> 
+          document.write("the message from JS");
+          for(var i=1; i<=6; i++) {
+            document.write("<h" +i +">hello<h"+i+">");
+          }
+          document.getElementById("content").innerHTML = "Hello JavaScript";
+          document.getElementById("content").style.fontSize = "35px";
+          document.getElementById("content").style.color = "blue";
+          greeting();
+        </script>
+      </body>
+</html>

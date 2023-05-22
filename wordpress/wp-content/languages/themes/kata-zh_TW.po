@@ -1,0 +1,1680 @@
+# Translation of Themes - Kata in Chinese (Taiwan)
+# This file is distributed under the same license as the Themes - Kata package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-01-15 07:16:37+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: zh_TW\n"
+"Project-Id-Version: Themes - Kata\n"
+
+#. Theme Name of the theme
+#: includes/dashboard/parts/dashboard.header.tpl.php:26
+#: includes/dashboard/parts/dashboard.header.tpl.php:28
+#, gp-priority: high
+msgid "Kata"
+msgstr "Kata"
+
+#: includes/dashboard/parts/dashboard.header.tpl.php:38
+msgid "Download"
+msgstr "下載"
+
+#: includes/class-kata-template-tags.php:221
+msgid "author"
+msgstr "作者"
+
+#: includes/class-kata-helpers.php:477
+msgid "minutes"
+msgstr "分鐘"
+
+#: includes/class-kata-helpers.php:475
+msgid "minute"
+msgstr "分鐘"
+
+#: includes/theme-options/options/blog-options.php:256
+msgid "Post Tags"
+msgstr "文章標籤"
+
+#: includes/theme-options/options/blog-options.php:240
+msgid "Post Author"
+msgstr "文章作者"
+
+#: includes/theme-options/options/blog-options.php:224
+msgid "Post Date"
+msgstr "文章發佈日期"
+
+#: includes/theme-options/options/blog-options.php:208
+msgid "Post Title"
+msgstr "文章標題"
+
+#: includes/theme-options/options/blog-options.php:192
+msgid "Post Categories"
+msgstr "文章分類"
+
+#: includes/theme-options/options/blog-options.php:176
+msgid "Post Thumbnail"
+msgstr "文章縮圖"
+
+#: includes/theme-options/options/styling-options.php:323
+msgid "To more options please install Kata Plus"
+msgstr "更多選項請安裝 Kata Plus"
+
+#: includes/theme-options/options/blog-options.php:272
+msgid "Post Socials"
+msgstr "發佈至社交網路服務"
+
+#: includes/theme-options/options/styling-options.php:326
+msgid "Plugins Installer"
+msgstr "外掛安裝程式"
+
+#: includes/theme-options/options/customizer-page-options.php:27
+msgid "Pages"
+msgstr "頁面"
+
+#: includes/theme-options/options/styling-options.php:297
+msgid "Advanced Styling"
+msgstr "進階設計樣式"
+
+#: includes/theme-options/options/styling-options.php:137
+msgid "Controls the typography of H1-H6."
+msgstr "調整 H1 至 H6 的排版樣式。"
+
+#: includes/theme-options/options/styling-options.php:223
+msgid "Controls the typography of nav menu items."
+msgstr "調整導覽選單項目的排版樣式。"
+
+#: includes/theme-options/options/blog-options.php:119
+msgid "Title"
+msgstr "標題"
+
+#: includes/theme-options/options/blog-options.php:118
+msgid "Category"
+msgstr "分類"
+
+#: includes/theme-options/options/blog-options.php:96
+msgid "Thumbnail Position"
+msgstr "縮圖位置"
+
+#: includes/theme-options/options/styling-options.php:84
+#: includes/theme-options/options/styling-options.php:170
+#: includes/theme-options/options/styling-options.php:256
+msgid "Font Properties"
+msgstr "字型屬性"
+
+#: includes/theme-options/options/add-google-fonts-options.php:72
+msgid "Weights"
+msgstr "字型粗細"
+
+#: includes/theme-options/options/add-google-fonts-options.php:73
+msgid "Fill the field with your desired font weights"
+msgstr "填入你想要的字型粗細"
+
+#: includes/theme-options/options/add-google-fonts-options.php:63
+#: includes/theme-options/options/add-google-fonts-options.php:89
+msgid "Select Font"
+msgstr "選取字型"
+
+#: includes/theme-options/options/add-google-fonts-options.php:42
+msgid "ADD NEW"
+msgstr "新增"
+
+#: includes/theme-options/options/add-google-fonts-options.php:40
+msgid "Add Font"
+msgstr "新增字型"
+
+#: includes/theme-options/options/add-google-fonts-options.php:28
+msgid "Add google Fonts"
+msgstr "新增Google字型"
+
+#: includes/tgm/plugins.php:44
+msgid "Kata Plus"
+msgstr "Kata Plus"
+
+#: includes/theme-options/options/styling-options.php:28
+msgid "Styling"
+msgstr "設計樣式"
+
+#: includes/theme-options/options/add-google-fonts-options.php:45
+msgid "Google Font"
+msgstr "Google 字型"
+
+#: includes/theme-options/options/styling-options.php:309
+msgid "Primary Color"
+msgstr "主要顏色"
+
+#: includes/theme-options/options/styling-options.php:126
+#: includes/theme-options/options/styling-options.php:136
+msgid "Headings Typography"
+msgstr "標題排版樣式"
+
+#: includes/theme-options/options/styling-options.php:56
+#: includes/theme-options/options/styling-options.php:142
+#: includes/theme-options/options/styling-options.php:228
+msgid "Enabel"
+msgstr "啟用"
+
+#: includes/theme-options/options/styling-options.php:40
+msgid "Basic Typography"
+msgstr "基本排版樣式"
+
+#: includes/theme-options/options/site-identity-options.php:34
+msgid "Boxed"
+msgstr "加框"
+
+#: includes/theme-options/options/site-identity-options.php:33
+msgid "Wide"
+msgstr "寬"
+
+#: includes/theme-options/options/header-options.php:70
+msgid "Full Width Header"
+msgstr "頁首寬度最大"
+
+#: includes/theme-options/options/header-options.php:57
+msgid "Border Color"
+msgstr "邊框顏色"
+
+#: includes/theme-options/options/site-identity-options.php:44
+msgid "Disable this option in case you don't need a responsive website."
+msgstr "如果你不需要回應式網頁請取消此選項"
+
+#: includes/theme-options/options/site-identity-options.php:43
+msgid "Responsive"
+msgstr "回應式"
+
+#: includes/theme-options/options/footer-options.php:196
+msgid "Email: contact@yourwebsite.com"
+msgstr "電子郵箱: contact@yourwebsite.com"
+
+#: includes/theme-options/options/footer-options.php:195
+msgid "Second Custom Text"
+msgstr "區段 2 自訂文字"
+
+#: includes/theme-options/options/footer-options.php:173
+msgid "Second Section"
+msgstr "區段 2 "
+
+#: includes/theme-options/options/footer-options.php:157
+msgid "Copyright ©[kata-date] all right reserved."
+msgstr "Copyright ©[kata-date] all right reserved."
+
+#: includes/theme-options/options/footer-options.php:156
+msgid "First Custom Text"
+msgstr "區段 1 自訂文字"
+
+#: includes/theme-options/options/footer-options.php:139
+#: includes/theme-options/options/footer-options.php:178
+msgid "Custom Text"
+msgstr "自訂文字"
+
+#: includes/theme-options/options/footer-options.php:134
+msgid "First Section"
+msgstr "區段 1"
+
+#: includes/theme-options/options/footer-options.php:112
+#: includes/theme-options/options/header-options.php:84
+#: includes/theme-options/options/site-identity-options.php:28
+msgid "Layout"
+msgstr "版面配置"
+
+#: includes/theme-options/options/site-identity-options.php:29
+msgid "Controls the site layout."
+msgstr "調整版面配置"
+
+#: includes/theme-options/options/footer-options.php:88
+msgid "Footer Bottom"
+msgstr "頁尾底部內容列"
+
+#: includes/theme-options/options/footer-options.php:97
+msgid "Footer Buttom"
+msgstr "頁尾底部內容"
+
+#: includes/theme-options/options/footer-options.php:64
+msgid "Background"
+msgstr "背景"
+
+#: includes/theme-options/options/blog-options.php:181
+#: includes/theme-options/options/blog-options.php:197
+#: includes/theme-options/options/blog-options.php:213
+#: includes/theme-options/options/blog-options.php:229
+#: includes/theme-options/options/blog-options.php:245
+#: includes/theme-options/options/blog-options.php:261
+#: includes/theme-options/options/blog-options.php:277
+#: includes/theme-options/options/footer-options.php:54
+#: includes/theme-options/options/footer-options.php:103
+#: includes/theme-options/options/styling-options.php:55
+#: includes/theme-options/options/styling-options.php:141
+#: includes/theme-options/options/styling-options.php:227
+msgid "Disable"
+msgstr "停用"
+
+#: includes/theme-options/options/blog-options.php:180
+#: includes/theme-options/options/blog-options.php:196
+#: includes/theme-options/options/blog-options.php:212
+#: includes/theme-options/options/blog-options.php:228
+#: includes/theme-options/options/blog-options.php:244
+#: includes/theme-options/options/blog-options.php:260
+#: includes/theme-options/options/blog-options.php:276
+#: includes/theme-options/options/footer-options.php:53
+#: includes/theme-options/options/footer-options.php:102
+msgid "Enable"
+msgstr "啟用"
+
+#: includes/theme-options/options/footer-options.php:48
+msgid "Widget Area"
+msgstr "小工具區域"
+
+#: includes/theme-options/options/footer-options.php:39
+msgid "Footer Widgets Area"
+msgstr "頁尾小工具區域"
+
+#: includes/theme-options/options/container-options.php:178
+msgid "Small Mobile"
+msgstr "小型行動裝置"
+
+#: includes/theme-options/options/header-options.php:99
+msgid "Mobile Layout"
+msgstr "行動裝置版面配置"
+
+#: includes/theme-options/options/container-options.php:155
+msgid "Mobile"
+msgstr "行動裝置"
+
+#: includes/theme-options/options/container-options.php:132
+msgid "Tablet"
+msgstr "平板裝置"
+
+#: includes/theme-options/options/container-options.php:86
+msgid "Laptop"
+msgstr "筆記型電腦"
+
+#: includes/theme-options/options/container-options.php:63
+msgid "Desktop"
+msgstr "桌上型電腦"
+
+#: includes/theme-options/options/container-options.php:41
+msgid "Fluid Container"
+msgstr "流體容器"
+
+#: includes/theme-options/options/container-options.php:47
+#: includes/theme-options/options/header-options.php:75
+#: includes/theme-options/options/site-identity-options.php:49
+msgid "Disabled"
+msgstr "已停用"
+
+#: includes/theme-options/options/container-options.php:46
+#: includes/theme-options/options/header-options.php:74
+#: includes/theme-options/options/site-identity-options.php:48
+msgid "Enabled"
+msgstr "已啟用"
+
+#: template-parts/posts/post.php:87
+msgid "Tags"
+msgstr "標籤"
+
+#: includes/theme-options/options/blog-options.php:148
+msgid "Excerpt length"
+msgstr "內容摘要長度"
+
+#: includes/theme-options/options/blog-options.php:137
+msgid "Date"
+msgstr "日期"
+
+#: includes/theme-options/options/blog-options.php:120
+msgid "Post Excerpt"
+msgstr "文章內容摘要"
+
+#: includes/theme-options/options/blog-options.php:111
+msgid "Post Structure"
+msgstr "文章結構"
+
+#: includes/theme-options/options/blog-options.php:131
+msgid "Metadata Structure"
+msgstr "詮釋資料結構"
+
+#: includes/theme-options/options/blog-options.php:86
+msgid "Posts"
+msgstr "文章"
+
+#: includes/theme-options/options/blog-options.php:47
+msgid "Single"
+msgstr "單篇文章"
+
+#: includes/theme-options/options/blog-options.php:76
+#: includes/theme-options/options/customizer-page-options.php:151
+msgid "Both"
+msgstr "兩者"
+
+#: includes/theme-options/options/customizer-page-options.php:120
+msgid "Show Search Title"
+msgstr "顯示搜尋標題"
+
+#: includes/theme-options/options/customizer-page-options.php:111
+msgid "Search Title"
+msgstr "搜尋標題"
+
+#: includes/theme-options/options/customizer-page-options.php:96
+msgid "Show Archive Title"
+msgstr "顯示封存標題"
+
+#: includes/theme-options/options/customizer-page-options.php:87
+msgid "Archive Title"
+msgstr "封存標題"
+
+#: includes/theme-options/options/customizer-page-options.php:48
+msgid "Show Page Title"
+msgstr "顯示頁面標題"
+
+#: includes/theme-options/options/customizer-page-options.php:39
+msgid "Page Title"
+msgstr "頁面標題"
+
+#: includes/theme-options/options/customizer-page-options.php:52
+#: includes/theme-options/options/customizer-page-options.php:76
+#: includes/theme-options/options/customizer-page-options.php:100
+#: includes/theme-options/options/customizer-page-options.php:124
+msgid "Hide"
+msgstr "隱藏"
+
+#: includes/theme-options/options/customizer-page-options.php:53
+#: includes/theme-options/options/customizer-page-options.php:77
+#: includes/theme-options/options/customizer-page-options.php:101
+#: includes/theme-options/options/customizer-page-options.php:125
+msgid "Show"
+msgstr "顯示"
+
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:103
+msgid "Rate us"
+msgstr "幫我們評分"
+
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:91
+msgid "Knowledge Base"
+msgstr "知識庫"
+
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:55
+msgid "Icon Manager"
+msgstr "圖示管理員"
+
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:52
+msgid "Search Resault Builder"
+msgstr "搜尋結果頁面編輯器"
+
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:51
+msgid "Author Page Builder"
+msgstr "作者頁面編輯器"
+
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:46
+msgid "Plugin Manager"
+msgstr "外掛管理員"
+
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:44
+msgid "Fonts Manager"
+msgstr "字型管理員"
+
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:36
+msgid "Additional CSS"
+msgstr "附加的 CSS"
+
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:35
+msgid "Widgets"
+msgstr "小工具"
+
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:34
+msgid "Menus"
+msgstr "選單"
+
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:31
+#: includes/theme-options/options/footer-options.php:27
+msgid "Footer"
+msgstr "頁尾"
+
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:30
+msgid "Page"
+msgstr "頁面"
+
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:29
+#: includes/theme-options/options/container-options.php:30
+msgid "Container"
+msgstr "容器"
+
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:28
+#: includes/theme-options/options/header-options.php:29
+msgid "Header"
+msgstr "頁首"
+
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:27
+msgid "Homepage Settings"
+msgstr "首頁設定"
+
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:26
+msgid "Site Identity"
+msgstr "網站識別"
+
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:24
+msgid "Start Customizing"
+msgstr "開始自訂"
+
+#: includes/dashboard/class-kata-dashboard.php:272
+msgid "Install plugins"
+msgstr "安裝外掛"
+
+#: includes/dashboard/parts/dashboard.header.tpl.php:40
+msgid "Help"
+msgstr "使用說明"
+
+#: includes/dashboard/parts/dashboard.header.tpl.php:39
+msgid "Support"
+msgstr "技術支援"
+
+#: includes/dashboard/parts/dashboard.header.tpl.php:37
+msgid "Demos"
+msgstr "示範"
+
+#: includes/dashboard/parts/dashboard.header.tpl.php:36
+msgid "Intro"
+msgstr "簡介"
+
+#: includes/customizer/controls/views/image.php:38
+#: includes/customizer/field/class-kirki-field-image.php:51
+msgid "No image selected"
+msgstr "未選取圖片"
+
+#: includes/customizer/controls/views/image.php:35
+#: includes/customizer/field/class-kirki-field-image.php:48
+msgid "Change image"
+msgstr "變更圖片"
+
+#: includes/customizer/controls/views/image.php:34
+#: includes/customizer/controls/views/image.php:39
+#: includes/customizer/field/class-kirki-field-image.php:47
+#: includes/customizer/field/class-kirki-field-image.php:52
+msgid "Select image"
+msgstr "選取圖片"
+
+#: includes/customizer/controls/views/image.php:40
+#: includes/customizer/field/class-kirki-field-image.php:53
+msgid "Choose image"
+msgstr "選擇圖片"
+
+#: includes/customizer/controls/php/class-kirki-control-repeater.php:419
+#: includes/customizer/controls/php/class-kirki-control-repeater.php:421
+msgid "Change File"
+msgstr "更換檔案"
+
+#: includes/customizer/controls/php/class-kirki-control-repeater.php:419
+#: includes/customizer/controls/php/class-kirki-control-repeater.php:423
+msgid "Add File"
+msgstr "新增檔案"
+
+#: includes/customizer/controls/php/class-kirki-control-repeater.php:387
+#: includes/customizer/controls/php/class-kirki-control-repeater.php:389
+msgid "Change Image"
+msgstr "更換圖片"
+
+#: includes/customizer/controls/php/class-kirki-control-repeater.php:387
+#: includes/customizer/controls/php/class-kirki-control-repeater.php:391
+msgid "Add Image"
+msgstr "新增圖片"
+
+#: includes/customizer/controls/php/class-kirki-control-repeater.php:376
+#: includes/customizer/controls/php/class-kirki-control-repeater.php:381
+msgid "No Image Selected"
+msgstr "未選取圖片"
+
+#: includes/customizer/controls/php/class-kirki-control-repeater.php:121
+msgid "Select a Page"
+msgstr "選取頁面"
+
+#. translators: %s represents the label of the row.
+#: includes/customizer/controls/php/class-kirki-control-repeater.php:86
+msgid "Add new %s"
+msgstr "新增 %s"
+
+#: includes/customizer/controls/php/class-kirki-control-repeater.php:77
+msgid "row"
+msgstr "列"
+
+#: includes/customizer/controls/php/class-kirki-control-dimensions.php:137
+msgid "Height"
+msgstr "高度"
+
+#: includes/customizer/controls/php/class-kirki-control-dimensions.php:136
+msgid "Width"
+msgstr "寬度"
+
+#: includes/customizer/controls/php/class-kirki-control-dimensions.php:135
+msgid "Spacing"
+msgstr "間距"
+
+#: includes/customizer/controls/php/class-kirki-control-dimensions.php:134
+msgid "Size"
+msgstr "尺寸"
+
+#: includes/customizer/controls/php/class-kirki-control-dimensions.php:129
+#: includes/customizer/field/class-kirki-field-spacing.php:32
+msgid "Top"
+msgstr "頂部"
+
+#: includes/customizer/controls/php/class-kirki-control-dimensions.php:126
+msgid "Font Style"
+msgstr "字型樣式"
+
+#: includes/customizer/controls/php/class-kirki-control-dimensions.php:124
+msgid "Font Weight"
+msgstr "字型粗細"
+
+#: includes/customizer/controls/php/class-kirki-control-base.php:136
+msgid "Standard Fonts"
+msgstr "標準字型"
+
+#: includes/customizer/controls/php/class-kirki-control-base.php:134
+#: includes/customizer/controls/views/image.php:36
+#: includes/customizer/field/class-kirki-field-image.php:49
+msgid "Default"
+msgstr "預設"
+
+#: includes/customizer/controls/php/class-kirki-control-slider.php:67
+msgid "Reset"
+msgstr "重設"
+
+#: includes/customizer/controls/php/class-kirki-control-switch.php:56
+#: includes/customizer/field/class-kirki-field-switch.php:40
+msgid "Off"
+msgstr "關閉"
+
+#: includes/customizer/controls/php/class-kirki-control-switch.php:52
+#: includes/customizer/field/class-kirki-field-switch.php:39
+msgid "On"
+msgstr "開啟"
+
+#: includes/customizer/controls/php/class-kirki-control-dimension.php:41
+#: includes/customizer/controls/php/class-kirki-control-dimensions.php:138
+msgid "Invalid Value"
+msgstr "無效值"
+
+#: includes/customizer/controls/php/class-kirki-control-background.php:119
+msgid "Fixed"
+msgstr "固定"
+
+#: includes/customizer/controls/php/class-kirki-control-background.php:116
+msgid "Scroll"
+msgstr "捲動式"
+
+#: includes/customizer/controls/php/class-kirki-control-background.php:113
+msgid "Background Attachment"
+msgstr "背景附件"
+
+#: includes/customizer/controls/php/class-kirki-control-background.php:106
+msgid "Auto"
+msgstr "自動"
+
+#: includes/customizer/controls/php/class-kirki-control-base.php:139
+msgid "Default Browser Font-Family"
+msgstr "預設瀏覽器字型系列"
+
+#: includes/theme-options/options/footer-options.php:49
+#: includes/theme-options/options/footer-options.php:98
+msgid "By chooing enable you will abel add widgets to footer widgets are for showing widgets in footer."
+msgstr "選取啟動後，你能夠在頁尾小工具裡新增小工具，並在頁尾顯示。"
+
+#: includes/theme-options/options/container-options.php:179
+msgid "Sets the responsive container size for mobile small screen sizes"
+msgstr "設定小型螢幕行動裝置的回應式容器尺寸"
+
+#: includes/theme-options/options/container-options.php:156
+msgid "Sets the responsive container size for mobile"
+msgstr "設定行動裝置的回應式容器尺寸"
+
+#: includes/theme-options/options/container-options.php:133
+msgid "Sets the responsive container size for tablet"
+msgstr "設定平板裝置的回應式容器尺寸"
+
+#: includes/theme-options/options/container-options.php:110
+msgid "Sets the responsive container size for landscape tablet view"
+msgstr "設定平板裝置橫向檢視的回應式容器尺寸"
+
+#: includes/theme-options/options/container-options.php:109
+msgid "Landscape Tablet View"
+msgstr "平板裝置橫向檢視"
+
+#: includes/theme-options/options/container-options.php:87
+msgid "Sets the responsive container size for laptop"
+msgstr "設定筆記型電腦的回應式容器尺寸"
+
+#: includes/theme-options/options/container-options.php:64
+msgid "Sets the responsive container size for desktop"
+msgstr "設定桌上型電腦的回應式容器尺寸"
+
+#: includes/theme-options/options/container-options.php:42
+msgid "Enable this option to have Wide Container in large screen"
+msgstr "使用大螢幕需要寬長容器請啟動此選項"
+
+#: includes/theme-options/options/blog-options.php:149
+msgid "Sets the post excerpt length size"
+msgstr "設定貼文摘要長度尺寸"
+
+#: includes/customizer/controls/php/class-kirki-control-dimensions.php:130
+#: includes/customizer/field/class-kirki-field-spacing.php:33
+msgid "Bottom"
+msgstr "下方"
+
+#: includes/theme-options/functions/theme-options-functions.php:749
+msgid "There is a problem with customizer (theme options) data's please refresh the page to resolve the problem"
+msgstr "佈景主題選項的客製化資料發生問題，請重整頁面來解決此問題。"
+
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:83
+msgid "In just one simple click, you'll import your desired design and can start customizing your site. %1$sinstall plugins%2$s"
+msgstr "只要簡單點一下，你就可以匯入你喜歡的設計並且開始客製化你的網站 %1$s安裝外掛%2$s"
+
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:78
+msgid "In just one simple click, you'll %1$s import your desired design %2$s and can start customizing your site."
+msgstr "只要簡單點一下，你就可以%1$s匯入你喜歡的設計%2$s並且開始客製化你的網站 "
+
+#: includes/dashboard/class-kata-dashboard.php:269
+msgid "In order to take full advantage of Kata theme and enabling its demo importer, please install the required plugins."
+msgstr "為了能充分發揮Kata佈景主題能並啟動示範網站匯入器，請安裝必要的外掛。"
+
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:47
+msgid "Header Builder"
+msgstr "頁首編輯器"
+
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:48
+msgid "Footer Builder"
+msgstr "頁尾編輯器"
+
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:32
+msgid "Styling & Typography"
+msgstr "設計風格與印刷樣式"
+
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:108
+msgid "Are you enjoying Kata? Please support us by leaving a positive review for us %1$shere%2$s"
+msgstr "你喜歡Kata嗎？在%1$s這裡%2$s給我們一個好評以支持我們。"
+
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:96
+msgid "Are you familiare with how Kata works? Make sure to read our comprehensive %1$s online Documentation %2$s which includes helpful video tutorials"
+msgstr "你熟悉Kata如何運作嗎？ 確保先閱讀我們全方位的 %1$s線上文件%2$s ，裡頭還包含有幫助的影片教程喔！"
+
+#: includes/dashboard/class-kata-dashboard.php:263
+msgid "Enable all Features of Kata theme"
+msgstr "啟動所有Kata佈景主題的功能"
+
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:41
+msgid "Pro Features"
+msgstr "Pro 版特色"
+
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:45
+msgid "Portfolio Features"
+msgstr "作品集功能"
+
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:69
+msgid "Starter Templates"
+msgstr "新手範本"
+
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:67
+msgid "Import Starter Template"
+msgstr "匯入入門範本"
+
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:73
+msgid "Make sure to checkout Kata's %1$s Starter Template %2$s,"
+msgstr "記得查看Kata的 %1$s 入門範本 %2$s"
+
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:56
+msgid "Section Templates Library"
+msgstr "區段範本庫"
+
+#: includes/theme-options/options/styling-options.php:51
+msgid "Controls the typography of body."
+msgstr "調整主要內容排版樣式"
+
+#: includes/theme-options/options/styling-options.php:50
+msgid "Body Typography"
+msgstr "主要內容排版樣式"
+
+#: includes/theme-options/options/blog-options.php:166
+msgid "Post Single"
+msgstr "張貼單頁"
+
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:53
+msgid "404 Builder"
+msgstr "404 頁面編輯器"
+
+#: includes/customizer/controls/php/class-kirki-control-base.php:138
+msgid "CSS Defaults"
+msgstr "CSS 預設值"
+
+#: includes/customizer/controls/php/class-kirki-control-base.php:137
+msgid "Google Fonts"
+msgstr "Google Fonts"
+
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:58
+msgid "Pro Styler"
+msgstr "Pro 版編輯器"
+
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:49
+msgid "Mega Menu Builder"
+msgstr "複合式選單編輯器"
+
+#. translators: %s represents the number of rows we're limiting the repeater to
+#. allow.
+#: includes/customizer/controls/php/class-kirki-control-repeater.php:227
+msgid "Limit: %s rows"
+msgstr "上限: %s 行"
+
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:57
+msgid "Pro Theme Option"
+msgstr "Pro 版佈景主題選項"
+
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:43
+msgid "Kata Overview"
+msgstr "Kata 概觀"
+
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:50
+msgid "Archive Builder"
+msgstr "彙整頁面編輯器"
+
+#: includes/theme-options/options/customizer-page-options.php:72
+msgid "Show Blog Title"
+msgstr "顯示部落格標題"
+
+#: includes/theme-options/options/customizer-page-options.php:63
+msgid "Blog Title"
+msgstr "部落格標題"
+
+#: includes/theme-options/options/styling-options.php:212
+#: includes/theme-options/options/styling-options.php:222
+msgid "Nav Menu Typography"
+msgstr "導覽選單排版樣式"
+
+#: includes/theme-options/options/blog-options.php:60
+#: includes/theme-options/options/customizer-page-options.php:135
+msgid "Sidebar"
+msgstr "資訊欄"
+
+#: includes/theme-options/options/blog-options.php:69
+#: includes/theme-options/options/customizer-page-options.php:144
+msgid "Sidebar Position"
+msgstr "資訊欄位置"
+
+#: includes/theme-options/options/header-options.php:58
+msgid "Header border bottom color"
+msgstr "頁首下框線色彩"
+
+#: includes/theme-options/options/header-options.php:41
+msgid "Header border bottom size"
+msgstr "頁首下框線尺寸"
+
+#: includes/theme-options/options/header-options.php:40
+msgid "Border"
+msgstr "框線"
+
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:54
+msgid "Single Builder"
+msgstr "單篇頁面編輯器"
+
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:43
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:44
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:45
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:46
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:47
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:48
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:49
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:50
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:51
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:52
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:53
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:54
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:55
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:56
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:57
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:58
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:59
+msgid "Learn More"
+msgstr "進一步了解"
+
+#: includes/customizer/controls/php/class-kirki-control-background.php:103
+msgid "Contain"
+msgstr "完整放置"
+
+#: includes/customizer/controls/php/class-kirki-control-background.php:100
+msgid "Cover"
+msgstr "覆蓋全區"
+
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:59
+msgid "Presets"
+msgstr "預設集"
+
+#: includes/customizer/controls/php/class-kirki-control-background.php:97
+msgid "Background Size"
+msgstr "背景尺寸"
+
+#: includes/customizer/controls/php/class-kirki-control-background.php:91
+#: includes/customizer/controls/php/class-kirki-control-dimensions.php:122
+msgid "Center Bottom"
+msgstr "中下方"
+
+#: includes/customizer/controls/php/class-kirki-control-background.php:90
+#: includes/customizer/controls/php/class-kirki-control-dimensions.php:121
+msgid "Center Center"
+msgstr "正中間"
+
+#: includes/customizer/controls/php/class-kirki-control-background.php:89
+#: includes/customizer/controls/php/class-kirki-control-dimensions.php:120
+msgid "Center Top"
+msgstr "中上方"
+
+#: includes/customizer/controls/php/class-kirki-control-background.php:88
+#: includes/customizer/controls/php/class-kirki-control-dimensions.php:119
+msgid "Right Bottom"
+msgstr "右下方"
+
+#: includes/customizer/controls/php/class-kirki-control-background.php:87
+#: includes/customizer/controls/php/class-kirki-control-dimensions.php:118
+msgid "Right Center"
+msgstr "右中"
+
+#: includes/customizer/controls/php/class-kirki-control-background.php:86
+#: includes/customizer/controls/php/class-kirki-control-dimensions.php:117
+msgid "Right Top"
+msgstr "右上方"
+
+#: includes/customizer/controls/php/class-kirki-control-background.php:85
+#: includes/customizer/controls/php/class-kirki-control-dimensions.php:116
+msgid "Left Bottom"
+msgstr "左下方"
+
+#: includes/customizer/controls/php/class-kirki-control-background.php:84
+#: includes/customizer/controls/php/class-kirki-control-dimensions.php:115
+msgid "Left Center"
+msgstr "左中"
+
+#: includes/customizer/controls/php/class-kirki-control-background.php:83
+#: includes/customizer/controls/php/class-kirki-control-dimensions.php:114
+msgid "Left Top"
+msgstr "左上方"
+
+#: includes/customizer/controls/php/class-kirki-control-background.php:81
+msgid "Background Position"
+msgstr "背景位置"
+
+#: includes/customizer/controls/php/class-kirki-control-background.php:75
+msgid "Repeat Vertically"
+msgstr "垂直重複"
+
+#: includes/customizer/controls/php/class-kirki-control-background.php:74
+msgid "Repeat Horizontally"
+msgstr "水平重複"
+
+#: includes/customizer/controls/php/class-kirki-control-background.php:72
+msgid "No Repeat"
+msgstr "不重複"
+
+#: includes/customizer/controls/php/class-kirki-control-background.php:73
+msgid "Repeat All"
+msgstr "水平及垂直重複"
+
+#: includes/customizer/controls/php/class-kirki-control-background.php:70
+msgid "Background Repeat"
+msgstr "背景重複"
+
+#: includes/customizer/controls/php/class-kirki-control-background.php:63
+#: includes/customizer/controls/php/class-kirki-control-base.php:135
+msgid "Select File"
+msgstr "選取檔案"
+
+#: includes/customizer/controls/php/class-kirki-control-background.php:62
+#: includes/customizer/controls/php/class-kirki-control-base.php:133
+#: includes/customizer/controls/php/class-kirki-control-repeater.php:386
+#: includes/customizer/controls/php/class-kirki-control-repeater.php:418
+#: includes/customizer/controls/php/class-kirki-control-repeater.php:443
+#: includes/customizer/controls/views/image.php:37
+#: includes/customizer/field/class-kirki-field-image.php:50
+msgid "Remove"
+msgstr "移除"
+
+#: includes/customizer/controls/php/class-kirki-control-background.php:59
+#: includes/customizer/controls/php/class-kirki-control-base.php:132
+#: includes/customizer/controls/php/class-kirki-control-repeater.php:408
+#: includes/customizer/controls/php/class-kirki-control-repeater.php:413
+msgid "No File Selected"
+msgstr "未選取檔案"
+
+#: includes/customizer/controls/php/class-kirki-control-background.php:54
+msgid "Background Image"
+msgstr "背景圖片"
+
+#: includes/customizer/controls/php/class-kirki-control-background.php:48
+msgid "Background Color"
+msgstr "背景顏色"
+
+#: includes/customizer/controls/php/class-kirki-control-typography.php:221
+#: includes/theme-options/options/styling-options.php:106
+#: includes/theme-options/options/styling-options.php:192
+#: includes/theme-options/options/styling-options.php:278
+msgid "Color"
+msgstr "顏色"
+
+#: includes/customizer/controls/php/class-kirki-control-typography.php:213
+msgid "Margin Bottom"
+msgstr "下邊界"
+
+#: includes/customizer/controls/php/class-kirki-control-typography.php:205
+msgid "Margin Top"
+msgstr "上邊界"
+
+#: includes/customizer/controls/php/class-kirki-control-typography.php:194
+msgid "Overline"
+msgstr "頂線"
+
+#: includes/customizer/controls/php/class-kirki-control-typography.php:193
+msgid "Underline"
+msgstr "底線"
+
+#: includes/customizer/controls/php/class-kirki-control-typography.php:189
+msgid "Text Decoration"
+msgstr "文字裝飾"
+
+#: includes/customizer/controls/php/class-kirki-control-typography.php:195
+msgid "Line-Through"
+msgstr "劃線"
+
+#: includes/customizer/controls/php/class-kirki-control-typography.php:180
+#: includes/customizer/controls/php/class-kirki-control-typography.php:196
+msgid "Initial"
+msgstr "初始"
+
+#: includes/customizer/controls/php/class-kirki-control-typography.php:179
+msgid "Lowercase"
+msgstr "小寫"
+
+#: includes/customizer/controls/php/class-kirki-control-typography.php:178
+msgid "Uppercase"
+msgstr "大寫"
+
+#: includes/customizer/controls/php/class-kirki-control-typography.php:177
+msgid "Capitalize"
+msgstr "首字大寫"
+
+#: includes/customizer/controls/php/class-kirki-control-typography.php:176
+#: includes/customizer/controls/php/class-kirki-control-typography.php:192
+#: includes/theme-options/options/blog-options.php:73
+#: includes/theme-options/options/customizer-page-options.php:148
+#: includes/theme-options/options/footer-options.php:137
+#: includes/theme-options/options/footer-options.php:176
+msgid "None"
+msgstr "無"
+
+#: includes/customizer/controls/php/class-kirki-control-typography.php:173
+msgid "Text Transform"
+msgstr "字元轉換"
+
+#: includes/customizer/controls/php/class-kirki-control-typography.php:163
+msgid "Justify"
+msgstr "分散對齊"
+
+#: includes/customizer/controls/php/class-kirki-control-dimensions.php:132
+#: includes/customizer/controls/php/class-kirki-control-typography.php:157
+#: includes/customizer/field/class-kirki-field-spacing.php:35
+#: includes/theme-options/options/blog-options.php:75
+#: includes/theme-options/options/blog-options.php:100
+#: includes/theme-options/options/customizer-page-options.php:150
+msgid "Right"
+msgstr "右側"
+
+#: includes/customizer/controls/php/class-kirki-control-dimensions.php:133
+#: includes/customizer/controls/php/class-kirki-control-typography.php:151
+msgid "Center"
+msgstr "置中"
+
+#: includes/customizer/controls/php/class-kirki-control-dimensions.php:131
+#: includes/customizer/controls/php/class-kirki-control-typography.php:145
+#: includes/customizer/field/class-kirki-field-spacing.php:34
+#: includes/theme-options/options/blog-options.php:74
+#: includes/theme-options/options/blog-options.php:99
+#: includes/theme-options/options/customizer-page-options.php:149
+msgid "Left"
+msgstr "左側"
+
+#: includes/customizer/controls/php/class-kirki-control-typography.php:139
+#: includes/customizer/controls/php/class-kirki-control-typography.php:181
+#: includes/customizer/controls/php/class-kirki-control-typography.php:197
+msgid "Inherit"
+msgstr "繼承"
+
+#: includes/customizer/controls/php/class-kirki-control-typography.php:134
+msgid "Text Align"
+msgstr "文字對齊"
+
+#: includes/customizer/controls/php/class-kirki-control-dimensions.php:128
+#: includes/customizer/controls/php/class-kirki-control-typography.php:126
+msgid "Word Spacing"
+msgstr "文字間距"
+
+#: includes/customizer/controls/php/class-kirki-control-dimensions.php:127
+#: includes/customizer/controls/php/class-kirki-control-typography.php:118
+msgid "Letter Spacing"
+msgstr "字元間距"
+
+#: includes/customizer/controls/php/class-kirki-control-dimensions.php:125
+#: includes/customizer/controls/php/class-kirki-control-typography.php:110
+msgid "Line Height"
+msgstr "行高"
+
+#: includes/customizer/controls/php/class-kirki-control-dimensions.php:123
+#: includes/customizer/controls/php/class-kirki-control-typography.php:102
+msgid "Font Size"
+msgstr "字型大小"
+
+#: includes/customizer/controls/php/class-kirki-control-typography.php:82
+#: includes/theme-options/options/styling-options.php:67
+#: includes/theme-options/options/styling-options.php:153
+#: includes/theme-options/options/styling-options.php:239
+msgid "Font Family"
+msgstr "字型系列"
+
+#: includes/customizer/controls/php/class-kirki-control-typography.php:83
+#: includes/customizer/controls/php/class-kirki-control-typography.php:88
+msgid "Select Font Family"
+msgstr "選擇字型系列"
+
+#: includes/customizer/deprecated/functions.php:19
+msgid "%1$s or %2$s"
+msgstr "%1$s 或 %2$s"
+
+#: includes/customizer/modules/custom-sections/sections/class-kirki-sections-nested-section.php:61
+msgid "Customizing"
+msgstr "自訂"
+
+#: includes/class-kata-helpers.php:255
+msgid "Search Results:"
+msgstr "搜尋結果"
+
+#: functions.php:160 includes/theme-options/options/footer-options.php:138
+#: includes/theme-options/options/footer-options.php:177
+msgid "Footer Menu"
+msgstr "頁尾選單"
+
+#: includes/customizer/core/class-kirki-init.php:368
+msgid "Install Plugin"
+msgstr "安裝外掛"
+
+#: includes/customizer/controls/php/class-kirki-control-typography.php:93
+msgid "Variant"
+msgstr "字體大小"
+
+#: includes/customizer/controls/php/class-kirki-control-typography.php:87
+msgid "Backup Font"
+msgstr "備份字型"
+
+#: includes/customizer/core/class-kirki-init.php:369
+msgid "Don't show this again"
+msgstr "不再顯示此訊息"
+
+#: includes/tgm/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "安裝必要外掛"
+
+#: includes/tgm/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "安裝外掛 (TGMPA)"
+
+#. translators: %s: plugin name.
+#: includes/tgm/class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr "正在安裝外掛: %s"
+
+#. translators: %s: plugin name.
+#: includes/tgm/class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr "正在更新外掛: %s"
+
+#: includes/tgm/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "外掛 API 發生錯誤。"
+
+#. translators: 1: plugin name(s).
+#: includes/tgm/class-tgm-plugin-activation.php:334
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "這個佈景主題的必要安裝外掛: %1$s。"
+
+#. translators: 1: plugin name(s).
+#: includes/tgm/class-tgm-plugin-activation.php:340
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "這個佈景主題的建議安裝外掛: %1$s。"
+
+#. translators: 1: plugin name(s).
+#: includes/tgm/class-tgm-plugin-activation.php:346
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "為確保與這個佈景主題保持最高相容性，必須更新至最新版本的外掛: %1$s。"
+
+#. translators: 1: plugin name(s).
+#: includes/tgm/class-tgm-plugin-activation.php:352
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "有可用更新的外掛: %1$s。"
+
+#. translators: 1: plugin name(s).
+#: includes/tgm/class-tgm-plugin-activation.php:358
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "目前尚未啟用的必要安裝外掛: %1$s。"
+
+#. translators: 1: plugin name(s).
+#: includes/tgm/class-tgm-plugin-activation.php:364
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "目前尚未啟用的建議安裝外掛: %1$s。"
+
+#: includes/tgm/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "安裝外掛"
+
+#: includes/tgm/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "更新外掛"
+
+#: includes/tgm/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "啟用外掛"
+
+#: includes/tgm/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "返回 [安裝必要外掛]"
+
+#: includes/tgm/class-tgm-plugin-activation.php:386
+#: includes/tgm/class-tgm-plugin-activation.php:827
+#: includes/tgm/class-tgm-plugin-activation.php:2533
+#: includes/tgm/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "返回 [控制台]"
+
+#: includes/tgm/class-tgm-plugin-activation.php:387
+#: includes/tgm/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr "外掛已成功啟用。"
+
+#: includes/dashboard/class-kata-dashboard.php:511
+#: includes/tgm/class-tgm-plugin-activation.php:388
+#: includes/tgm/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "已成功啟用的外掛:"
+
+#. translators: 1: plugin name.
+#: includes/tgm/class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "無須進行任何操作。外掛 %1$s 已完成啟用。"
+
+#. translators: 1: plugin name.
+#: includes/tgm/class-tgm-plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "外掛尚未啟用。這個佈景主題需要配合較新版本的 %s，請將外掛予以更新。"
+
+#. translators: 1: dashboard link.
+#: includes/tgm/class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "全部外掛均已成功安裝並完成啟用。%1$s"
+
+#: includes/tgm/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "關閉這項通知"
+
+#: includes/tgm/class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "有一或多個必要或建議的外掛需要安裝、更新或啟用。"
+
+#: includes/tgm/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "請聯絡這個網站的網站管理員尋求協助。"
+
+#: includes/tgm/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "為了與目前的佈景主題相容，這個外掛必須進行更新。"
+
+#: includes/tgm/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "必須更新"
+
+#: includes/tgm/class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "遠端的外掛安裝套件並未包含正確代稱的資料夾，且經過重新命名也無法正確運作。"
+
+#: includes/tgm/class-tgm-plugin-activation.php:934
+#: includes/tgm/class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "請聯絡外掛開發者，並要求開發者依照 WordPress 準則為外掛進行正確的封裝。"
+
+#: includes/tgm/class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "遠端外掛安裝套件包含超過一個檔案，但這些檔案並未封裝於同一個資料夾中。"
+
+#: includes/dashboard/class-kata-dashboard.php:506
+#: includes/tgm/class-tgm-plugin-activation.php:1121
+#: includes/tgm/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "及"
+
+#. translators: %s: version number
+#: includes/tgm/class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr "TGMPA %s 版"
+
+#: includes/tgm/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "必要安裝"
+
+#: includes/tgm/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "建議安裝"
+
+#: includes/tgm/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "WordPress 存放庫"
+
+#: includes/tgm/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "外部來源"
+
+#: includes/tgm/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "預先封裝"
+
+#: includes/tgm/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "尚未安裝"
+
+#: includes/tgm/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "已安裝但尚未啟用"
+
+#: includes/tgm/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "已啟用"
+
+#: includes/tgm/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr "無法使用必要的更新"
+
+#: includes/tgm/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "必須更新"
+
+#: includes/tgm/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "建議更新"
+
+#. translators: 1: install status, 2: update status
+#: includes/tgm/class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s，%2$s"
+
+#. translators: 1: number of plugins.
+#: includes/tgm/class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "全部 <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: includes/tgm/class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "待安裝 <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: includes/tgm/class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "已有更新可供安裝 <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: includes/tgm/class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "待啟用 <span class=\"count\">(%s)</span>"
+
+#: includes/tgm/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "未知"
+
+#: includes/tgm/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "目前安裝的版本:"
+
+#: includes/tgm/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "最低版本需求:"
+
+#: includes/tgm/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "可用版本:"
+
+#: includes/tgm/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "目前沒有需要安裝、更新或啟用的外掛。"
+
+#: includes/tgm/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "外掛名稱"
+
+#: includes/tgm/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "安裝來源"
+
+#: includes/tgm/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "安裝類型"
+
+#: includes/tgm/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "安裝版本"
+
+#: includes/tgm/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "安裝狀態"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: includes/tgm/class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr "安裝 %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: includes/tgm/class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr "更新 %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: includes/tgm/class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr "啟用 %2$s"
+
+#: includes/tgm/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "來自外掛開發者的升級訊息:"
+
+#: includes/tgm/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "安裝"
+
+#: includes/tgm/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr "更新"
+
+#: includes/tgm/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr "啟用"
+
+#: includes/dashboard/class-kata-dashboard.php:310
+#: includes/tgm/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "沒有選取任何外掛以進行安裝。並未產生任何變更。"
+
+#: includes/dashboard/class-kata-dashboard.php:312
+#: includes/tgm/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "沒有選取任何外掛以進行更新。並未產生任何變更。"
+
+#: includes/dashboard/class-kata-dashboard.php:333
+#: includes/tgm/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "目前沒有需要安裝的外掛。"
+
+#: includes/dashboard/class-kata-dashboard.php:335
+#: includes/tgm/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "目前沒有需要更新的外掛。"
+
+#: includes/dashboard/class-kata-dashboard.php:479
+#: includes/tgm/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "沒有選取任何外掛以進行啟用。並未產生任何變更。"
+
+#: includes/dashboard/class-kata-dashboard.php:492
+#: includes/tgm/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "目前沒有需要啟用的外掛。"
+
+#: includes/tgm/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "外掛啟用失敗。"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: includes/tgm/class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "正在更新外掛 %1$s (第 %2$d 個，總計 %3$d 個)"
+
+#. translators: 1: plugin name, 2: error message.
+#: includes/tgm/class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "安裝 %1$s 時發生錯誤: <strong>%2$s</strong>。"
+
+#. translators: 1: plugin name.
+#: includes/tgm/class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr "%1$s 安裝失敗。"
+
+#: includes/tgm/class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "正在執行安裝及啟用程序。這項程序在某些主機上需要較長的處理時間，請耐心等候。"
+
+#. translators: 1: plugin name.
+#: includes/tgm/class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s 已成功安裝並啟用。"
+
+#. translators: 1: plugin name.
+#: includes/tgm/class-tgm-plugin-activation.php:3509
+#: includes/tgm/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr "顯示詳細資料"
+
+#. translators: 1: plugin name.
+#: includes/tgm/class-tgm-plugin-activation.php:3509
+#: includes/tgm/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr "隱藏詳細資料"
+
+#: includes/tgm/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "全部安裝及啟用均已完成。"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: includes/tgm/class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "正在安裝並啟用的外掛為 %1$s (第 %2$d 個，總計 %3$d 個)"
+
+#: includes/tgm/class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "正在執行安裝程序。這項程序在某些主機上需要較長的處理時間，請耐心等候。"
+
+#. translators: 1: plugin name.
+#: includes/tgm/class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr "%1$s 已成功安裝。"
+
+#: includes/tgm/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "全部安裝均已完成。"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: includes/tgm/class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "正在安裝外掛 %1$s (第 %2$d 個，總計 %3$d 個)"
+
+#. translators: The title.
+#: includes/customizer/modules/custom-sections/sections/class-kirki-sections-nested-section.php:64
+msgid "Customizing &#9656; %s"
+msgstr "目前的自訂項目 &#9656; %s"
+
+#: includes/tgm/plugins.php:36
+msgid "Elementor"
+msgstr "Elementor"
+
+#: includes/class-kata-template-tags.php:166
+#: includes/theme-options/options/blog-options.php:138
+msgid "Author"
+msgstr "作者"
+
+#: comments.php:59
+msgid "Comments are closed."
+msgstr "留言功能已關閉。"
+
+#: comments.php:89
+msgid "Log out?"
+msgstr "登出？"
+
+#: functions.php:373
+msgid "Footer Column 1"
+msgstr "頁尾 - 第一欄"
+
+#: functions.php:350 functions.php:363 functions.php:375 functions.php:386
+#: functions.php:397
+msgid "Add widgets here."
+msgstr "在這裡新增小工具."
+
+#: functions.php:159
+msgid "Header Menu"
+msgstr "頁首選單"
+
+#: comments.php:69
+msgid "Required fields are marked"
+msgstr "必填欄位已標記"
+
+#: template-parts/loops/loop-author.php:93
+#: template-parts/loops/loop-default.php:102
+msgid "Continue reading"
+msgstr "繼續閱讀"
+
+#: functions.php:395
+msgid "Footer Column 3"
+msgstr "頁尾 - 第三欄"
+
+#: functions.php:384
+msgid "Footer Column 2"
+msgstr "頁尾 - 第二欄"
+
+#: comments.php:89
+msgid "Logged in as"
+msgstr "登入身份為"
+
+#: comments.php:88
+msgid "Login"
+msgstr "登入"
+
+#: comments.php:84
+msgid "Cancel Reply"
+msgstr "取消回覆"
+
+#: comments.php:83
+msgid "Leave a Reply to"
+msgstr "回覆留言給"
+
+#: comments.php:82
+msgid "Leave a Reply"
+msgstr "回覆留言"
+
+#: comments.php:73
+msgid "Website"
+msgstr "網站"
+
+#: comments.php:71 woocommerce/single-product-reviews.php:174
+msgid "Name"
+msgstr "名稱"
+
+#: comments.php:88
+msgid "You must be logged in to post a comment."
+msgstr "必須登入網站才能發佈留言。"
+
+#: comments.php:72 woocommerce/single-product-reviews.php:180
+msgid "Email"
+msgstr "電子郵件地址"
+
+#: includes/class-kata-helpers.php:253 woocommerce/single-product/meta.php:36
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] "分類:"
+
+#: template-parts/content-none.php:52
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "很抱歉，找不到符合搜尋條件的結果，請以不同的關鍵字重試。"
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:41
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "準備發佈第一篇文章了嗎？請從<a href=\"%1$s\">這裡</a>開始。"
+
+#: template-parts/content-none.php:28
+msgid "Nothing Found"
+msgstr "找不到符合條件的結果"
+
+#: functions.php:361
+msgid "Right Sidebar"
+msgstr "右側資訊欄"
+
+#: functions.php:348
+msgid "Left Sidebar"
+msgstr "左側資訊欄"
+
+#: includes/class-kata-helpers.php:250
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:33
+#: includes/theme-options/options/blog-options.php:27
+#: includes/theme-options/options/blog-options.php:37
+msgid "Blog"
+msgstr "部落格"
+
+#: includes/class-kata-helpers.php:257 includes/class-kata-helpers.php:259
+#: woocommerce/single-product/meta.php:38
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] "標籤:"
+
+#: includes/class-kata-helpers.php:260 template-parts/content-search.php:58
+#: template-parts/posts/post-aside.php:37
+msgid "Author:"
+msgstr "作者:"
+
+#: template-parts/content-search.php:54 template-parts/posts/post-aside.php:33
+#: woocommerce/checkout/thankyou.php:53
+msgid "Date:"
+msgstr "日期:"
+
+#: template-parts/posts/post-aside.php:50
+msgid "Tags : "
+msgstr "標籤: "
+
+#: template-parts/posts/post-aside.php:54
+msgid "Share : "
+msgstr "分享:"
+
+#: header.php:26
+msgid "Skip to content"
+msgstr "跳至主要內容"
+
+#: template-parts/content-none.php:64
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "找不到符合條件的內容。請使用搜尋功能，應會有所幫助。"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://climaxthemes.com/"
+msgstr "https://climaxthemes.com/"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "ClimaxThemes"
+msgstr "ClimaxThemes"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://climaxthemes.com/kata/"
+msgstr "https://climaxthemes.com/kata/"
